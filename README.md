@@ -37,6 +37,13 @@ QR-Code-Generator/
 4. Once generated, click Download to save it as an image file.
 
 
+📸 Screenshot
+
+<img width="2227" height="1196" alt="Screenshot 2025-11-09 224319" src="https://github.com/user-attachments/assets/b1b04bec-d66f-44a7-a5ac-a44849e60668" />
+
+
+
+
 👨‍💻 Author
 
 Abhishek Kumar Singh
